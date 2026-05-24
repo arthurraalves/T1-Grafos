@@ -18,7 +18,7 @@ Java
 javac Main.java
 
 ### Executar:
-java Main < input.txt
+java Main < ../dados/entradas_do_problema.txt
 
 ---
 
